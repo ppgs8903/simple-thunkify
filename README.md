@@ -1,6 +1,6 @@
 # simple-thunkify
-[![Build Status](https://api.travis-ci.org/ppgs8903/simple-thunkify.png?branch=master)](https://api.travis-ci.org/ppgs8903/simple-thunkify)
-[ ![Codeship Status for ppgs8903/simple-thunkify](https://codeship.com/projects/a3771a10-fc1c-0133-76b1-1a008a1cc055/status?branch=master)](https://codeship.com/projects/151998)
+[![Build Status](https://api.travis-ci.org/ppgs8903/simplethunkify.png?branch=master)](https://api.travis-ci.org/ppgs8903/simplethunkify)
+[ ![Codeship Status for ppgs8903/simplethunkify](https://codeship.com/projects/67bdaae0-fc2c-0133-8cb8-2a8a40d7765d/status?branch=master)](https://codeship.com/projects/152010)
 
 node-thunkify simple implementation.
 support: study.
