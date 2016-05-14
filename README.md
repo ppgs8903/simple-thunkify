@@ -9,12 +9,24 @@ support: study.
 wait release
 
 ## Example
+###brfore
 ```javascript
-var simplethunkify = require('simplethunkify');
-var fs = require('fs');
-var read = simplethunkify(fs.readFile);
-read('package.json', 'utf8')(function(err, str){
-});
+    var fs= require('fs');
+    fs.readFile('package.json', 'utf8', function(err,data){
+        if (err) {
+            throw err;
+        } else {
+            console.log(data);
+        }
+    })
+```
+###after
+```javascript
+    var simplethunkify = require('simplethunkify');
+    var fs = require('fs');
+    var read = simplethunkify(fs.readFile);
+    read('package.json', 'utf8')(function(err, str){
+    });
 ```
 
 ## Contributors
