@@ -1,10 +1,11 @@
 {
   "name": "simple-thunkify",
   "version": "1.0.0",
-  "description": "node-thunkify simple implementation.",
+  "description": "node-thunkify simple implementation, support: study",
   "main": "index.js",
   "scripts": {
-    "test": "mocha simplethunkifyTest"
+	
+	"ci": "./node_modules/.bin/istanbul cover ./node_modules/mocha/bin/_mocha --colors *Test.js",
   },
   "repository": {
     "type": "git",
@@ -20,7 +21,10 @@
   },
   "homepage": "https://github.com/ppgs8903/simple-thunkify#readme",
   "dependencies": {
+    "coveralls": "^2.11.9",
+    "istanbul": "^0.4.3",
     "mocha": "^2.4.5",
+    "mocha-lcov-reporter": "^1.2.0",
     "should": "^8.3.1"
   }
 }
