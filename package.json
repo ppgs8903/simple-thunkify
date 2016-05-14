@@ -1,0 +1,26 @@
+{
+  "name": "simple-thunkify",
+  "version": "1.0.0",
+  "description": "node-thunkify simple implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppgs8903/simple-thunkify.git"
+  },
+  "keywords": [
+    "thunk"
+  ],
+  "author": "JasonTao",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ppgs8903/simple-thunkify/issues"
+  },
+  "homepage": "https://github.com/ppgs8903/simple-thunkify#readme",
+  "dependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.3.1"
+  }
+}
