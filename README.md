@@ -8,14 +8,10 @@ node-thunkify simple implementation.
 等待release
 
 ## Example
-var thunkify = require('thunkify');
-
+var simplethunkify = require('simplethunkify');
 var fs = require('fs');
- 
-var read = thunkify(fs.readFile);
- 
+var read = simplethunkify(fs.readFile);
 read('package.json', 'utf8')(function(err, str){
-  
 });
 
 ## License
