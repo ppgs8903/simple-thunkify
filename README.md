@@ -5,14 +5,16 @@
 node-thunkify simple implementation.
 
 ## Installation
-等待release
+wait release
 
 ## Example
+```javascript
 var simplethunkify = require('simplethunkify');
 var fs = require('fs');
 var read = simplethunkify(fs.readFile);
 read('package.json', 'utf8')(function(err, str){
 });
+```
 
 ## License
 Apache-2.0
