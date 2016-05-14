@@ -2,8 +2,6 @@
  * Created by jason on 2016/5/14.
  */
 
-module.exports = simplethunkify;
-
 /**
  * Wrap a regular callback `fn` as a thunk.
  *
@@ -19,3 +17,5 @@ function simplethunkify(fn) {
         }
     }
 }
+
+module.exports = simplethunkify;
