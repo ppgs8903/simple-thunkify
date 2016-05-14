@@ -1,5 +1,6 @@
 # simple-thunkify
 [![Build Status](https://api.travis-ci.org/ppgs8903/simple-thunkify.png?branch=master)](https://api.travis-ci.org/ppgs8903/simple-thunkify)
+
 node-thunkify simple implementation.
 
 ## Installation
