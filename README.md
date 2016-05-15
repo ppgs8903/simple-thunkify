@@ -2,6 +2,7 @@
 [![Build Status](https://api.travis-ci.org/ppgs8903/simplethunkify.png?branch=master)](https://api.travis-ci.org/ppgs8903/simplethunkify)
 [ ![Codeship Status for ppgs8903/simplethunkify](https://codeship.com/projects/67bdaae0-fc2c-0133-8cb8-2a8a40d7765d/status?branch=master)](https://codeship.com/projects/152010)
 [![Dependency Status](https://gemnasium.com/badges/github.com/ppgs8903/simplethunkify.svg)](https://gemnasium.com/github.com/ppgs8903/simplethunkify)
+[![bitHound Dependencies](https://www.bithound.io/github/ppgs8903/simplethunkify/badges/dependencies.svg)](https://www.bithound.io/github/ppgs8903/simplethunkify/master/dependencies/npm)
 
 [![NPM](https://nodei.co/npm/simplethunkify.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/simplethunkify/)
 
