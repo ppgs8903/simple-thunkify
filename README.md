@@ -6,7 +6,7 @@ node-thunkify simple implementation.
 support: study.
 
 ## Installation
-wait release
+npm install --save-dev simplethunkify
 
 ## Example
 ###brfore
