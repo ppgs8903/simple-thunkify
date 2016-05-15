@@ -2,6 +2,8 @@
 [![Build Status](https://api.travis-ci.org/ppgs8903/simplethunkify.png?branch=master)](https://api.travis-ci.org/ppgs8903/simplethunkify)
 [ ![Codeship Status for ppgs8903/simplethunkify](https://codeship.com/projects/67bdaae0-fc2c-0133-8cb8-2a8a40d7765d/status?branch=master)](https://codeship.com/projects/152010)
 
+[![NPM](https://nodei.co/npm/simplethunkify.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/simplethunkify/)
+
 node-thunkify simple implementation.
 support: study.
 
